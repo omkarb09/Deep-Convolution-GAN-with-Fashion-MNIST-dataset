@@ -1,1 +1,1 @@
-# Deep-Convolution-GAN-with-Fashion-MNIST-dataset
+# Deep-Convolutional-GAN-with-Fashion-MNIST-dataset
